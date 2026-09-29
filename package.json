@@ -54,7 +54,7 @@
     "dotenv": "^16.0.3",
     "eslint": "^8.39.0",
     "eslint-plugin-react": "^7.32.2",
-    "ethereum-waffle": "^3.4.4",
+    "ethereum-waffle": "^4.0.10",
     "ethers": "^5.6.8",
     "hardhat": "^2.14.1",
     "https-browserify": "^1.0.0",
